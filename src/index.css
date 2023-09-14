@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.main-bg{
+    z-index: -100;
+}
+
+.intro{
+    padding-bottom: 0px;
+}
+
+.fiverr-hire:hover > div{
+    width: 100%;
+}
+
+.fiverr-hire:hover > h1{
+    color: black;
+}
+
+.mohamed {
+    background: -webkit-linear-gradient(180deg,#15d6d6, #2857d6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

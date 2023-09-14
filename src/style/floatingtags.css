@@ -1,0 +1,14 @@
+.floating-tags > span{
+    color: #ffffff96;
+    transition: all 0.7s;
+    cursor: default;
+}
+
+.floating-tags > span:hover{
+    color: white;
+}
+
+.floating-tags{
+    justify-content: center;
+    flex-wrap: wrap;
+}

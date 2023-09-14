@@ -1,0 +1,23 @@
+.ps{
+    filter: drop-shadow(5px 5px 27px #002a5a);
+}
+
+.al:hover{
+    filter: drop-shadow(0px 0px 20px #630000);
+}
+
+.html:hover, .office:hover{
+    filter: drop-shadow(0px 0px 20px orange);
+}
+
+.id:hover{
+    filter: drop-shadow(0px 0px 20px #9b0031);
+}
+
+.ae:hover{
+    filter: drop-shadow(0px 0px 20px #00007e);
+}
+
+.css:hover{
+    filter: drop-shadow(0px 0px 20px #006bcf);
+}

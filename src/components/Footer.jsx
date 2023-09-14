@@ -10,7 +10,7 @@ const Footer = ()=>{
             <button onClick={()=> OpenLink("https://www.instagram.com/ahmedmustafa.dev/")}>
                 <i className="fa-brands fa-instagram"></i>
             </button>
-            <button onClick={()=> OpenLink("https://www.ahmedmustafa.vercel.app")}>
+            <button onClick={()=> OpenLink("https://ahmedmustafa.vercel.app/")}>
                 <i className="fa-solid fa-laptop-code"></i>
             </button>
         </div>

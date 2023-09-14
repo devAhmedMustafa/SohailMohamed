@@ -26,8 +26,8 @@ const Intro = ()=>{
             <div className="relative w-fit flex flex-col gap-6 items-center">
 
                 <h1 className="text-5xl md:text-7xl flex justify-center gap-2 2xl:flex-col 2xl:text-9xl w-full overflow-hidden name">
-                    <span className="sohail translate-x-96">Sohail </span>
-                    <span className="mohamed translate-x-96">Mohamed</span>
+                    <span className="sohail lg:translate-x-96">Sohail </span>
+                    <span className="mohamed lg:translate-x-96">Mohamed</span>
                 </h1>
 
                 <div className="hidden md:block">
